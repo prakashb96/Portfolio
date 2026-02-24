@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "LeetCode",
+    "rating": "1917",
+    "rank": "Top 3.93%",
+    "solved": "472",
+    "color": "#FFA116"
+  },
+  {
+    "platform": "CodeChef",
+    "rating": "1727 (3★)",
+    "rank": "#7430 Global",
+    "solved": "500",
+    "color": "#5B4638"
+  },
+  {
+    "platform": "Codeforces",
+    "rating": "1264",
+    "rank": "Pupil",
+    "solved": "65",
+    "color": "#1F8ACB"
+  }
+]
